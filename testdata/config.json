@@ -1,0 +1,12 @@
+{
+  "int": 1,
+  "int64": 2,
+  "bool": true,
+  "string": "test",
+  "slice": {
+    "string": [
+      "test1",
+      "test2"
+    ]
+  }
+}
